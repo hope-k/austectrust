@@ -97,7 +97,7 @@ const LoanPaymentOptions = () => {
         <div>
           <div className="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50">
             <h1 className="text-2xl text-white font-poppins lg:mx-20  items-center flex h-full mx-10  ">
-              Loan Payment Options
+              Loan Payment Option
             </h1>
           </div>
         </div>
