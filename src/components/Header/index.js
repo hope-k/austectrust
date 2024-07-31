@@ -161,7 +161,7 @@ const Header = () => {
             <div className="container px-[6rem] h-full flex items-center justify-between">
               <div className=" flex cursor-pointer">
                 <Link to="/" className="">
-                  <div className="w-[16rem] h-full p-2 mr-[2rem] rounded-2xl">
+                  <div className="w-[16rem] h-full relative top-1 p-2 mr-[2rem] rounded-2xl">
                     <img src="/hacketthill.png" alt="logo" />
                   </div>
                 </Link>

@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <div className='flex bg-[#fff] shadow-lg lg:px-[6rem] px-[2rem] lg:h-[50vh] flex-wrap w-full'>
             <div className='mt-[3rem] flex flex-col'>
-                <div className='w-[300px] h-[300px] absolute'>
+                <div className='w-[200px] h-[100px] absolute'>
                     <img src='/hacketthill.png' alt='logo' />
                 </div>
                 <p className='font-light relative top-[6.5rem] max-w-lg text-[15px] text-[#6084a4]'>
