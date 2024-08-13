@@ -57,7 +57,7 @@ const Users = () => {
         { field: 'dob', headerName: 'DOB', editable: true },
         { field: 'phone', headerName: 'Phone', editable: true, width: 80 },
         { field: 'ssn', headerName: 'SSN', editable: true },
-        { field: 'address', headerName: 'Address', editable: true, width: 150 },
+        { field: 'address', headerName: 'Address', editable: true, width: 140 },
     ]
 
 
