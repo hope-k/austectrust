@@ -28,8 +28,8 @@ const Footer = () => {
                 <h1 className='font-semibold text-lg mb-3'>Address</h1>
                 <ul className='text-[#6084a4] max-w-lg text-[14.5px]'>
                     <ul>
-                        <li><b>United Kingdom :</b>31 Hurst St, Birmingham B5 4BD, UK</li>
-                        <li><b>Phone : </b> +44 74 76487323</li>
+                        <li><b>Australia :</b>395 Bourke Street, Melbourne VIC 3000, Australia</li>
+                        <li><b>Phone : </b> +61 3 8616 3164</li>
                     </ul>
                     <ul className='my-3'>
                         <li><b>New Zealand :</b> Victoria St West, Auckland CBD Auckland 1010, New Zealand</li>

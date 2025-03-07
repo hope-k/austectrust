@@ -179,7 +179,7 @@ const Header = () => {
                 </div>
                 <div>
                   <div className="text-slate-600 font-bold text-sm">
-                    +44 74 76487323{" "}
+                      +61 3 8616 3164{" "}
                   </div>
                   <div className="text-slate-500 text-sm">austectrust@support.com</div>
                 </div>
@@ -190,11 +190,11 @@ const Header = () => {
                 </div>
                 <div>
                   <div className="text-slate-600 font-bold text-sm">
-                    31 Hurst St
+                      395 Bourke Street
                   </div>
                   <div className="text-slate-500 text-sm">
                     {" "}
-                    31 Hurst St, Birmingham B5 4BD, UK
+                      395 Bourke Street, Melbourne VIC 3000, Australia
                   </div>
                 </div>
               </div>
